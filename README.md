@@ -1,5 +1,5 @@
 # BeeAmI
-The beestly accurate algorithm for predicting what monke do.<br>
+The beestly accurate algorithm for predicting what monkey do.<br>
 
 Parts of the code were generated with the help of Github Copilot.<br>
 
